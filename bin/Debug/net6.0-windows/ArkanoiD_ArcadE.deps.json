@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArkanoiD_ArcadE/1.0.0": {
+        "runtime": {
+          "ArkanoiD_ArcadE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArkanoiD_ArcadE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
